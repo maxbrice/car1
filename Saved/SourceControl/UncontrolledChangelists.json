@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Unreal Projects/Car1/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"F:/Unreal Projects/Car1/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset",
+				"F:/Unreal Projects/Car1/Content/VehicleTemplate/Blueprints/OffroadCar/BP_VehicleAdvOffroadCar.uasset",
+				"F:/Unreal Projects/Car1/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase.uasset",
+				"F:/Unreal Projects/Car1/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/11/9B2WMQ45AMD2BQK977XESA.uasset",
+				"F:/Unreal Projects/Car1/Content/VehicleTemplate/Maps/Lvl_VehicleBasic.umap",
+				"F:/Unreal Projects/Car1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/Unreal Projects/Car1/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/AY/SRRITQ3U4S0E255J0ZEJ00.uasset"
+			]
+		}
+	]
+}
